@@ -1,0 +1,13 @@
+069f919eba902cb69ebea790735b7a1a *DESCRIPTION
+2fd576e6caa25df69ba6d588a2b72e79 *NAMESPACE
+6c2be3d639768e54026e26ee96a1ecca *R/ddkstest.R
+9aeda64943f9acf83789fbbd040d1df0 *R/ddplot.R
+441377ccb40d13d7e16c730a42a851f3 *R/dmn.R
+b35634c3208220520ae7c3bdef16b084 *R/mn.mle.R
+ca7cffcb6e483e6d638f87fcce2e891b *R/rmn.R
+fc91b5b7d208ed78cf79cc326143a9d9 *man/MN-package.Rd
+67f334c3514e5939635b271749c3f6f7 *man/ddkstest.Rd
+50abae0fb2ad2cae3180e08f93853c16 *man/ddplot.Rd
+17665107d6690c8363cafb58f43087bf *man/dmn.Rd
+317a2a68bc1f07e5d69ce32f5cd4019b *man/mn.mle.Rd
+2c5c94ce8a12c616b5bab8dfdb7f5ae2 *man/rmn.Rd
